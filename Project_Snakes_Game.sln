@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Snakes_Game", "Project_Snakes_Game\Project_Snakes_Game.csproj", "{292CB088-A065-4EF2-9B7F-37BA3B3796A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292CB088-A065-4EF2-9B7F-37BA3B3796A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292CB088-A065-4EF2-9B7F-37BA3B3796A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292CB088-A065-4EF2-9B7F-37BA3B3796A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292CB088-A065-4EF2-9B7F-37BA3B3796A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
